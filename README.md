@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Ghadge</h1>
-<h3 align="center">A Web3/Full-Stack Developer and Blockchain Enthusiast. With experience in multiple programming languages including JavaScript, Python, and Ruby, I'm passionate about developing innovative solutions that drive positive change in the world. My repositories showcase a variety of projects in different domains, including web development, database management, and blockchain development. I'm always looking for new opportunities to learn, collaborate with other developers, and contribute to open-source projects. Let's build the future together!</h3>
+<h3 align="center">A Web3/Full-Stack Developer and Blockchain Enthusiast. With experience in multiple programming languages including JavaScript, and Python, I'm passionate about developing innovative solutions that drive positive change in the world. My repositories showcase a variety of projects in different domains, including web development, database management, and blockchain development. I'm always looking for new opportunities to learn, collaborate with other developers, and contribute to open-source projects. Let's build the future together!</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aditya-A-G?tab=repositories](https://github.com/Aditya-A-G?tab=repositories)
 
