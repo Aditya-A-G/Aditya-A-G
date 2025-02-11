@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Ghadge</h1>
 <h3 align="center">
-  I'm a Web3/Full-Stack Developer with a passion for building practical solutions using modern technologies like Next.js, TypeScript, and Solidity. My GitHub showcases projects ranging from blockchain smart contracts to AI-powered content creation and real-time multiplayer games. I'm always looking to learn new things, collaborate with others, and contribute to open-source projects.
+  I'm looking for a backend or full-stack backend-heavy role where I would like to collaborate with stakeholders, deal with the business logic, an try and wear different hats on certain days, ex DevOps. Try and see if I can optimise certain things where possible for cost optimisation & user experience
 </h3>
 
 - 👨‍💻 All of my projects are available at
